@@ -9,8 +9,8 @@ O coteúdo será atualizado semanalmente de acordo com o andamento do curso.
 
 Organização do curso:
 --------------------
-+ Cap 03 - Elementos de sintaxe básica [Elementos de sintaxe basica](https://github.com/frclasso/turma2-Python3-2018/tree/master/cap03_elementos_de_sintaxe_basica)
-+ Cap 04 - Tipos variáveis[Tipos variáveis](https://github.com/frclasso/turma2-Python3-2018/tree/master/cap4-variaveis) 
++ Cap 03 [Elementos de sintaxe basica](https://github.com/frclasso/turma2-Python3-2018/tree/master/cap03_elementos_de_sintaxe_basica)
++ Cap 04 [Tipos variáveis](https://github.com/frclasso/turma2-Python3-2018/tree/master/cap4-variaveis) 
 
 
 

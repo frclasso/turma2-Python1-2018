@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+
+"""Desenvolver uma aplicação para cadastro de pessoa física
+"""
+
 
 
 nome = 'Fabio Classo'
@@ -12,12 +17,11 @@ cnpj = '000.111.222.333/10'
 ramo = 'Tecnologia'
 
 
-print('Nome:', nome,'\nMinha idade:', idade,'\CFP:',cpf)
+#print('Nome:', nome,'\nMinha idade:', idade,'\CFP:',cpf)
 
 
-
-dadosPessoais = nome + ' '+ str(idade) + ' ' +  cpf +' ' + rg + ' '+  telefone + endereco
+dadosPessoais = nome + '\n'+ str(idade) + '\n' +cpf +'\n' +rg +'\n'+telefone+'\n'+endereco
 
 #dadosProfissionais = empresa + cnpj + ramo
 
-#print(dadosPessoais)
+print(dadosPessoais)

@@ -5,7 +5,7 @@ Utilizaremos este repositório para salvar os exercíos feitos em
 sala de aula bem como projetos e atividades em grupo.
 
 
-O coteúdo será atualizado semanalmente de acordo com o andamento do curso.
+O conteúdo será atualizado semanalmente de acordo com o andamento do curso.
 
 Organização do curso:
 --------------------
@@ -30,10 +30,10 @@ Commitando códigos
 
 Vamos padronizar da seguinte maneira:
 
-- Salvem seus arquivos no diretório correspondente, no formato **nome_arquivo_no_do_usuario.py**
+- Salvem seus arquivos no diretório correspondente, no formato **nome_arquivo_nome_do_usuario.py**
 - Exemplo: **teste_Fabio.py**
 
-
+--------------
 
 
 ![Image](https://github.com/frclasso/apostila_python_modulo_1/blob/master/jcavi.png "JCAVI")

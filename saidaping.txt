@@ -1,0 +1,28 @@
+PING 192.168.0.0 (192.168.0.0): 56 data bytes
+64 bytes from 192.168.0.10: icmp_seq=0 ttl=64 time=5.508 ms
+
+--- 192.168.0.0 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 5.508/5.508/5.508/0.000 ms
+PING 192.168.0.1 (192.168.0.1): 56 data bytes
+64 bytes from 192.168.0.1: icmp_seq=0 ttl=64 time=1.283 ms
+
+--- 192.168.0.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 1.283/1.283/1.283/0.000 ms
+PING 192.168.0.2 (192.168.0.2): 56 data bytes
+
+--- 192.168.0.2 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.0.3 (192.168.0.3): 56 data bytes
+
+--- 192.168.0.3 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.0.4 (192.168.0.4): 56 data bytes
+
+--- 192.168.0.4 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.0.5 (192.168.0.5): 56 data bytes
+
+--- 192.168.0.5 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss

@@ -7,6 +7,8 @@ print(miles)
 print(name)
 
 a = b = c = 1
+a = 1
+b = 1
 
 print(a)
 print(b)

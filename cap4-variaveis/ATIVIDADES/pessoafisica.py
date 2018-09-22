@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 
-"""Desenvolver uma aplicação para cadastro de pessoa física
+"""Desenvolver uma aplicação  (DICIONARIO) para
+ cadastro de pessoa física
 """
 
+dadosPessoais = {}
 
 
 nome = 'Fabio Classo'
@@ -16,12 +18,3 @@ empresa = "Sativa Life Technologies"
 cnpj = '000.111.222.333/10'
 ramo = 'Tecnologia'
 
-
-#print('Nome:', nome,'\nMinha idade:', idade,'\CFP:',cpf)
-
-
-dadosPessoais = nome + '\n'+ str(idade) + '\n' +cpf +'\n' +rg +'\n'+telefone+'\n'+endereco
-
-#dadosProfissionais = empresa + cnpj + ramo
-
-print(dadosPessoais)

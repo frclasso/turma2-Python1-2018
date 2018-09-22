@@ -1,0 +1,440 @@
+PING 192.168.10.0 (192.168.10.0): 56 data bytes
+64 bytes from 192.168.10.0: icmp_seq=0 ttl=30 time=4.072 ms
+
+--- 192.168.10.0 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 4.072/4.072/4.072/0.000 ms
+PING 192.168.10.1 (192.168.10.1): 56 data bytes
+64 bytes from 192.168.10.1: icmp_seq=0 ttl=30 time=2.320 ms
+
+--- 192.168.10.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 2.320/2.320/2.320/0.000 ms
+PING 192.168.10.2 (192.168.10.2): 56 data bytes
+64 bytes from 192.168.10.2: icmp_seq=0 ttl=64 time=482.754 ms
+
+--- 192.168.10.2 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 482.754/482.754/482.754/0.000 ms
+PING 192.168.10.3 (192.168.10.3): 56 data bytes
+64 bytes from 192.168.10.3: icmp_seq=0 ttl=64 time=0.108 ms
+
+--- 192.168.10.3 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.108/0.108/0.108/0.000 ms
+PING 192.168.10.4 (192.168.10.4): 56 data bytes
+
+--- 192.168.10.4 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.5 (192.168.10.5): 56 data bytes
+
+--- 192.168.10.5 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.6 (192.168.10.6): 56 data bytes
+
+--- 192.168.10.6 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.7 (192.168.10.7): 56 data bytes
+
+--- 192.168.10.7 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.8 (192.168.10.8): 56 data bytes
+
+--- 192.168.10.8 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.9 (192.168.10.9): 56 data bytes
+
+--- 192.168.10.9 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.10 (192.168.10.10): 56 data bytes
+
+--- 192.168.10.10 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.11 (192.168.10.11): 56 data bytes
+
+--- 192.168.10.11 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.12 (192.168.10.12): 56 data bytes
+
+--- 192.168.10.12 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.13 (192.168.10.13): 56 data bytes
+
+--- 192.168.10.13 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.14 (192.168.10.14): 56 data bytes
+
+--- 192.168.10.14 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.15 (192.168.10.15): 56 data bytes
+
+--- 192.168.10.15 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.16 (192.168.10.16): 56 data bytes
+
+--- 192.168.10.16 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.17 (192.168.10.17): 56 data bytes
+
+--- 192.168.10.17 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.18 (192.168.10.18): 56 data bytes
+
+--- 192.168.10.18 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.19 (192.168.10.19): 56 data bytes
+
+--- 192.168.10.19 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.20 (192.168.10.20): 56 data bytes
+
+--- 192.168.10.20 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.21 (192.168.10.21): 56 data bytes
+
+--- 192.168.10.21 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.22 (192.168.10.22): 56 data bytes
+
+--- 192.168.10.22 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.23 (192.168.10.23): 56 data bytes
+
+--- 192.168.10.23 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.24 (192.168.10.24): 56 data bytes
+
+--- 192.168.10.24 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.25 (192.168.10.25): 56 data bytes
+
+--- 192.168.10.25 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.26 (192.168.10.26): 56 data bytes
+
+--- 192.168.10.26 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.27 (192.168.10.27): 56 data bytes
+
+--- 192.168.10.27 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.28 (192.168.10.28): 56 data bytes
+
+--- 192.168.10.28 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.29 (192.168.10.29): 56 data bytes
+
+--- 192.168.10.29 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.30 (192.168.10.30): 56 data bytes
+
+--- 192.168.10.30 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.31 (192.168.10.31): 56 data bytes
+
+--- 192.168.10.31 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.32 (192.168.10.32): 56 data bytes
+
+--- 192.168.10.32 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.33 (192.168.10.33): 56 data bytes
+
+--- 192.168.10.33 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.34 (192.168.10.34): 56 data bytes
+
+--- 192.168.10.34 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.35 (192.168.10.35): 56 data bytes
+
+--- 192.168.10.35 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.36 (192.168.10.36): 56 data bytes
+
+--- 192.168.10.36 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.37 (192.168.10.37): 56 data bytes
+
+--- 192.168.10.37 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.38 (192.168.10.38): 56 data bytes
+
+--- 192.168.10.38 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.39 (192.168.10.39): 56 data bytes
+
+--- 192.168.10.39 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.40 (192.168.10.40): 56 data bytes
+
+--- 192.168.10.40 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.41 (192.168.10.41): 56 data bytes
+
+--- 192.168.10.41 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.42 (192.168.10.42): 56 data bytes
+
+--- 192.168.10.42 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.43 (192.168.10.43): 56 data bytes
+
+--- 192.168.10.43 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.44 (192.168.10.44): 56 data bytes
+
+--- 192.168.10.44 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.45 (192.168.10.45): 56 data bytes
+
+--- 192.168.10.45 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.46 (192.168.10.46): 56 data bytes
+
+--- 192.168.10.46 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.47 (192.168.10.47): 56 data bytes
+
+--- 192.168.10.47 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.48 (192.168.10.48): 56 data bytes
+
+--- 192.168.10.48 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.49 (192.168.10.49): 56 data bytes
+
+--- 192.168.10.49 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.50 (192.168.10.50): 56 data bytes
+
+--- 192.168.10.50 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.51 (192.168.10.51): 56 data bytes
+
+--- 192.168.10.51 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.52 (192.168.10.52): 56 data bytes
+
+--- 192.168.10.52 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.53 (192.168.10.53): 56 data bytes
+
+--- 192.168.10.53 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.54 (192.168.10.54): 56 data bytes
+
+--- 192.168.10.54 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.55 (192.168.10.55): 56 data bytes
+
+--- 192.168.10.55 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.56 (192.168.10.56): 56 data bytes
+
+--- 192.168.10.56 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.57 (192.168.10.57): 56 data bytes
+
+--- 192.168.10.57 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.58 (192.168.10.58): 56 data bytes
+
+--- 192.168.10.58 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.59 (192.168.10.59): 56 data bytes
+
+--- 192.168.10.59 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.60 (192.168.10.60): 56 data bytes
+
+--- 192.168.10.60 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.61 (192.168.10.61): 56 data bytes
+
+--- 192.168.10.61 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.62 (192.168.10.62): 56 data bytes
+
+--- 192.168.10.62 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.63 (192.168.10.63): 56 data bytes
+
+--- 192.168.10.63 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.64 (192.168.10.64): 56 data bytes
+
+--- 192.168.10.64 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.65 (192.168.10.65): 56 data bytes
+
+--- 192.168.10.65 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.66 (192.168.10.66): 56 data bytes
+
+--- 192.168.10.66 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.67 (192.168.10.67): 56 data bytes
+
+--- 192.168.10.67 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.68 (192.168.10.68): 56 data bytes
+
+--- 192.168.10.68 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.69 (192.168.10.69): 56 data bytes
+
+--- 192.168.10.69 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.70 (192.168.10.70): 56 data bytes
+
+--- 192.168.10.70 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.71 (192.168.10.71): 56 data bytes
+
+--- 192.168.10.71 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.72 (192.168.10.72): 56 data bytes
+
+--- 192.168.10.72 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.73 (192.168.10.73): 56 data bytes
+
+--- 192.168.10.73 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.74 (192.168.10.74): 56 data bytes
+
+--- 192.168.10.74 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.75 (192.168.10.75): 56 data bytes
+
+--- 192.168.10.75 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.76 (192.168.10.76): 56 data bytes
+
+--- 192.168.10.76 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.77 (192.168.10.77): 56 data bytes
+
+--- 192.168.10.77 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.78 (192.168.10.78): 56 data bytes
+
+--- 192.168.10.78 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.79 (192.168.10.79): 56 data bytes
+
+--- 192.168.10.79 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.80 (192.168.10.80): 56 data bytes
+
+--- 192.168.10.80 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.81 (192.168.10.81): 56 data bytes
+
+--- 192.168.10.81 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.82 (192.168.10.82): 56 data bytes
+
+--- 192.168.10.82 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.83 (192.168.10.83): 56 data bytes
+
+--- 192.168.10.83 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.84 (192.168.10.84): 56 data bytes
+
+--- 192.168.10.84 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.85 (192.168.10.85): 56 data bytes
+
+--- 192.168.10.85 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.86 (192.168.10.86): 56 data bytes
+
+--- 192.168.10.86 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.87 (192.168.10.87): 56 data bytes
+
+--- 192.168.10.87 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.88 (192.168.10.88): 56 data bytes
+
+--- 192.168.10.88 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.89 (192.168.10.89): 56 data bytes
+
+--- 192.168.10.89 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.90 (192.168.10.90): 56 data bytes
+
+--- 192.168.10.90 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.91 (192.168.10.91): 56 data bytes
+
+--- 192.168.10.91 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.92 (192.168.10.92): 56 data bytes
+
+--- 192.168.10.92 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.93 (192.168.10.93): 56 data bytes
+
+--- 192.168.10.93 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.94 (192.168.10.94): 56 data bytes
+
+--- 192.168.10.94 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.95 (192.168.10.95): 56 data bytes
+
+--- 192.168.10.95 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.96 (192.168.10.96): 56 data bytes
+
+--- 192.168.10.96 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.97 (192.168.10.97): 56 data bytes
+
+--- 192.168.10.97 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.98 (192.168.10.98): 56 data bytes
+
+--- 192.168.10.98 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.99 (192.168.10.99): 56 data bytes
+
+--- 192.168.10.99 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.100 (192.168.10.100): 56 data bytes
+
+--- 192.168.10.100 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.101 (192.168.10.101): 56 data bytes
+
+--- 192.168.10.101 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.102 (192.168.10.102): 56 data bytes
+
+--- 192.168.10.102 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.103 (192.168.10.103): 56 data bytes
+
+--- 192.168.10.103 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.104 (192.168.10.104): 56 data bytes
+
+--- 192.168.10.104 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.105 (192.168.10.105): 56 data bytes
+
+--- 192.168.10.105 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.106 (192.168.10.106): 56 data bytes
+
+--- 192.168.10.106 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.10.107 (192.168.10.107): 56 data bytes
+
+--- 192.168.10.107 ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss

@@ -9,3 +9,6 @@ print(minhaTupla[2:5])
 
 novatupla = minhaTupla[0:3]
 print(novatupla)
+
+outraTupla = minhaTupla + tinyTupla
+print(outraTupla)

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-"""Desenvolver uma aplicação  (DICIONARIO) para
- cadastro de pessoa física
+"""Fazer o input de dados para nossa aplicação de
+cadastro de pessoa física
 """
 
 nome = input('Digite seu nome: ')

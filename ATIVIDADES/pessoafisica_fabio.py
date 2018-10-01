@@ -3,21 +3,16 @@
 """Desenvolver uma aplicação  (DICIONARIO) para
  cadastro de pessoa física
 """
-#
-# dadosPessoais = {'Nome':'Fabio'}
+cadastro = {"Nome":"Fabio Classo",
+                 "Idade": 43,
+                 'CPF': '047.444.667.888/44',
+                 'RG':0000,
+                 'Telefone':9999,
+                 'Endereco':'Florianopolis',
+                 'Empresa':'Nano tech',
+                 'CNPJ':00000,
+                 'Segmento':'Tecnologia'
+                 }
 
+print(f"Nome:{cadastro['Nome']}")
 
-# nome = 'Fabio Classo'
-# idade = 43
-# cpf = '047.444.667.888/44'
-# rg = '622.333.44'
-# telefone = '(48)99174-3152'
-# endereco = "Rua Caminhos dos Açores 1600, Sto Antonio de Lisboa - Florianopolis - SC"
-#
-# empresa = "Sativa Life Technologies"
-# cnpj = '000.111.222.333/10'
-# ramo = 'Tecnologia'
-
-pais = input("Digite seu pais: ")
-print("Ola fulano voce mora no: ",pais)
-str = "MInha string"

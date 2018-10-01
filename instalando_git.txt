@@ -1,0 +1,42 @@
+
+****Passo a passo para configurar o repositorio git***
+
+1) Obtendo o github (https://desktop.github.com/)
+
+2) Escolha um local de fácil acesso para clonar o projeto, tipo: Desktop, Documentos ...
+
+3) Clone o projeto:
+-  abra o terminal no local escolhido e digite:
+ git clone https://github.com/frclasso/turma2-Python3-2018.git
+
+ou pode fazer um download no endereço (https://github.com/frclasso/turma2-Python3-2018)
+clique no botão "VERDE" Clone or Download.
+
+4) Após fazer o download, entrem na pasta do projeto pelo terminal:
+-- Windows:
+cd C:\usuario\Desktop\turma2-Python3-2018 ... algo do tipo
+## Assumindo que voce salvou no seu Desktop ou Area de trabalho...
+
+ e digitem o comando "git status" para verificar o status (estado) do projeto no repo local...
+
+5) configurem o usuario e email de voces: "git config user.name "joaozinho"
+                                       "git user.email 'joaozinho@gmail.com' ";
+                 "sem aspas"
+6) Testem!!!!
+ - Criem ou editem um arquivo e façam o "commit" e o "push":
+
+ ##Exemplo:
+  fabioteste.txt ou .py
+
+## Adicioname o arquivo com git add
+    git add fabioteste.txt
+
+## Façam o commit(salvem as alterações)
+   git commit -m "salvando arquivo fabioteste.txt"
+
+##Façam upload para o repositório com git push (vai pedir usuario e senha[sua senha])
+    git push -u origin master
+----------------------------
+
+url do projeto:
+https://github.com/frclasso/turma2-Python3-2018.git

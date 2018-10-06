@@ -1,4 +1,4 @@
-import sqlite3, time
+eimport sqlite3, time
 
 connect=sqlite3.connect('pessoafisica.db')
 c=connect.cursor()
@@ -30,7 +30,7 @@ def relatarCadastros(relatarCadastros_db):
 
 def deletarCadastro(deletarCadastro_db):
     sql_deletar='DELETE FROM cadastro WHERE nome = ?'
-    for row in deletarCadastro(sql_deletar, (deletarCadastro_db,)):
+    for row in c.execute(sql_deletar, (deletarCadastro_db,)):
         print(row)
     connect.commit()
 

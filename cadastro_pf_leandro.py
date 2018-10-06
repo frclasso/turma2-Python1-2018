@@ -26,8 +26,8 @@ def pesquisaDados(pesquisarDados_db):
     connect.commit()
 
 def relatarCadastros(relatarCadastros_db):
-    sql_relatar='SELECT * FROM cadastro;'
-    for row in c.execute(sql_relatar, (relatarCadastros_db)):
+    sql_relatar='SELECT * FROM cadastro'
+    for row in c.execute(sql_relatar, (relatarCadastros_db,)):
         print(row)
     connect.commit()
 

@@ -25,7 +25,8 @@ def pesquisaDados(pesquisarDados_db):
 def relatarCadastros(relatarCadastros_db):
     sql_relatar='SELECT * FROM cadastro;'
     for row in c.execute(sql_relatar, (relatarCadastros_db)):
-        print(sql_relatar)
+        print(row)
+    connect.commit()
 
 def deletarCadastro(deletarCadastro_db):
     sql_deletar='DELETE FROM cadastro WHERE nome = ?'

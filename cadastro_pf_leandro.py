@@ -1,16 +1,19 @@
-eimport sqlite3, time
+import sqlite3, time
+from datetime import datetime
+
 
 connect=sqlite3.connect('pessoafisica.db')
 c=connect.cursor()
+tempo=datetime.now()
 
-#def criar_db():
-#    c.execute('CREATE TABLE IF NOT EXISTS cadastro (nome text, cpf varchar, endereco text, email text, empresa text, cargo text)')
-#try:
-#    criar_db()
-#except:
-#    print('Erro ao criar banco de dados.')
-#else:
-#    print('Banco de dados criado com sucesso.')
+def criar_db():
+    c.execute('CREATE TABLE IF NOT EXISTS cadastro (nome text, cpf varchar, endereco text, email text, empresa text, cargo text)')
+try:
+    criar_db()
+except:
+    print('Erro ao criar banco de dados.')
+else:
+    print('Banco de dados criado com sucesso.')
 
 def inserirDados(n, cpf, end, e, emp, carg):
     c.execute('INSERT INTO cadastro VALUES(?, ?, ?, ?, ?, ?)', (n, cpf, end, e, emp, carg))
@@ -57,14 +60,14 @@ if funcao == 2:
         print('Consultar dados no Database...')
         pesquisardb=str(input('Digite o nome a ser localizado: '))
         pesquisaDados(pesquisardb)
-        print('Pesquisa concluída.')
+        print('Pesquisa realizada em {}'.format(tempo.strftime('%d/%m/%Y %H:%M:%S')))
     except:
         print('Ocorreu um erro durante a pesquisa.')
 
 if funcao == 3:
     try:
         print('Relatório de usuários:')
-        print(relatarCadastros)
+        relatarCadastros(relatarCadastros_db)
     except:
         print('Ocorreu um erro, não foi possível localizar os cadastros.')
 

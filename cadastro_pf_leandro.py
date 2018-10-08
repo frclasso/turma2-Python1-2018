@@ -25,9 +25,9 @@ def pesquisaDados(pesquisarDados_db):
         print(row)
     connect.commit()
 
-def relatarCadastros(relatarCadastros_db):
+def relatarCadastros():
     sql_relatar='SELECT * FROM cadastro'
-    for row in c.execute(sql_relatar, (relatarCadastros_db,)):
+    for row in c.execute(sql_relatar):
         print(row)
     connect.commit()
 
@@ -60,14 +60,15 @@ if funcao == 2:
         print('Consultar dados no Database...')
         pesquisardb=str(input('Digite o nome a ser localizado: '))
         pesquisaDados(pesquisardb)
-        print('Pesquisa realizada em {}'.format(tempo.strftime('%d/%m/%Y %H:%M:%S')))
+        print('Pesquisa realizada em {}'.format(tempo.strftime('%d/%m/%Y - %H:%M:%S')))
     except:
         print('Ocorreu um erro durante a pesquisa.')
 
 if funcao == 3:
     try:
         print('Relatório de usuários:')
-        relatarCadastros(relatarCadastros_db)
+        relatarCadastros()
+        print('Pesquisa finalizada às {}'.format(tempo.strftime('%H:%M:%S - %d/%m/%Y')))
     except:
         print('Ocorreu um erro, não foi possível localizar os cadastros.')
 

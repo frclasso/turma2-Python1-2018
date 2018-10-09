@@ -14,7 +14,10 @@ Organização do curso:
 --------------------
 + Cap 03 [Elementos de sintaxe basica](https://github.com/frclasso/turma2-Python3-2018/tree/master/cap03_elementos_de_sintaxe_basica)
 + Cap 04 [Tipos variáveis](https://github.com/frclasso/turma2-Python3-2018/tree/master/cap4-variaveis) 
-
++ Cap 05 [Operadore Básicos](https://github.com/frclasso/turma2-Python3-2018/tree/master/cap05-op-basicos)
++ Cap 06 [Estruturas de decisão](https://github.com/frclasso/turma2-Python3-2018/tree/master/cap06-estruturas-dep-decisao)
++ Cap 07 [Estruturas de repetição](https://github.com/frclasso/turma2-Python3-2018/tree/master/cap07-estruturas-de-repeticao)
++ Cap 08 [Números](https://github.com/frclasso/turma2-Python3-2018/tree/master/cap08_Numeros)
 
 Atividades
 ----------

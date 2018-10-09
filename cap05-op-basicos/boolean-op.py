@@ -19,6 +19,6 @@ if y in x:
 else:
     print('Expressao falsa')
 
-if y is not x[0]:print('Expressao verdadeira:',y)
+if y is not x[0]:print('Expressao verdadeira:', y)
 else:print("Expressao falsa",y)
 

@@ -72,30 +72,3 @@ class calculadora_JCAVI:
 calc = Tk()
 calculadora_JCAVI(calc)
 calc.mainloop()
-
-
-
-
-# label1=Label(calculadora, text="Calculadora\nJCAVI Treinamentos")
-# label1.pack(side=TOP)
-#
-# button1 = Entry(calculadora,)
-# button1.pack(side=TOP)
-#
-# seteButton=Button(calculadora, font=('Tahoma', 12), text='7')
-# seteButton.pack(side=LEFT)
-#
-# quatroButton=Button(calculadora, font=('Tahoma', 12), text='4')
-# quatroButton.pack(side=LEFT)
-#
-# umButton=Button(calculadora, font=('Tahoma', 12), text='1')
-# umButton.pack(side=LEFT,)
-#
-# oitoButton=Button(calculadora, font=('Tahoma', 12), text='8')
-# oitoButton.pack(side=RIGHT)
-#
-# cincoButton=Button(calculadora, font=('Tahoma', 12), text='5')
-# cincoButton.pack(side=RIGHT)
-#
-# doisButton=Button(calculadora, font=('Tahoma', 12), text='2')
-# doisButton.pack(side=RIGHT)

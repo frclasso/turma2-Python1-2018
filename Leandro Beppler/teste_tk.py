@@ -4,7 +4,8 @@ class calculadora_JCAVI:
     def __init__(self, calc):
         self.calc = calc
         self.calc.title("Calculadora - JCAVI")
-        self.calc.geometry('187x177')
+        self.calc.geometry('188x195')
+        self.calc.resizable(height=FALSE,width=FALSE)
 
         self.valores = Entry(self.calc, bg='Gray', font=('Tahoma', 22))
         self.valores.grid(row=0,sticky=W, ipadx=93, ipady=9, pady=3)
@@ -55,11 +56,12 @@ class calculadora_JCAVI:
 
         self.adicao = Button(self.calc, relief=GROOVE, activebackground='Red', activeforeground='White')
         self.adicao['text'] = '+'
-        self.adicao.grid(row=1,sticky=W, ipadx=12, padx=146)
+
+        self.adicao.grid(row=1,sticky=W, ipadx=11, padx=146)
 
         self.sub = Button(self.calc, relief=GROOVE, activebackground='Red', activeforeground='White')
         self.sub['text'] = '-'
-        self.sub.grid(row=2,sticky=W, ipadx=14, padx=146)
+        self.sub.grid(row=2,sticky=W, ipadx=13, padx=146)
 
         self.mul = Button(self.calc, relief=GROOVE, activebackground='Red', activeforeground='White')
         self.mul['text'] = '*'
@@ -67,7 +69,7 @@ class calculadora_JCAVI:
 
         self.divi = Button(self.calc, relief=GROOVE, activebackground='Red', activeforeground='White')
         self.divi['text'] = '÷'
-        self.divi.grid(row=4,sticky=W, ipadx=12, padx=146)
+        self.divi.grid(row=4,sticky=W, ipadx=11, padx=146)
 
 calc = Tk()
 calculadora_JCAVI(calc)

@@ -38,25 +38,6 @@ def deletarCadastro(deletarCadastro_db):
         print(row)
     connect.commit()
 
-# def retornaMenu():
-#    if resp == 'S' or 's':
-#
-#    elif 'n' or 'N':
-#       sys.exit()
-#    else:
-#       print('Comando não reconhecido.')
-
-
-# while resp == 'S':
-#     for n in range(1, 11):
-#         print(f'{num}  x {n:2} = {num*n:2}')
-#     print('#*' * 10)
-#     resp = str(input('\nQuer continuar (S/N)? ')).upper()
-#     if resp == 'S':
-#         num = int(input('Digite um número inteiro para calcular a tabuada: '))
-#
-# print('Obrigado por utilizar o meu programa!.')
-
 funcao=int(input('1 - Cadastrar Pessoa Física\n2 - Consultar Cadastro PF\n3 - Relatório de Cadastros\n4 - Deletar Cadastro\nSelecione a opção desejada:'))
 
 if funcao == 1:

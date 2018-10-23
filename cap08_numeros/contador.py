@@ -15,3 +15,5 @@ while True:
         contador +=1
 
 print(f'Quantidade de letras adicionadas: {contador}')
+
+

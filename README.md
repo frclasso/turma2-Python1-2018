@@ -19,6 +19,11 @@ Organização do curso:
 + Cap 07 [Estruturas de repetição](https://github.com/frclasso/turma2-Python3-2018/tree/master/cap07-estruturas-de-repeticao)
 + Cap 08 [Números](https://github.com/frclasso/turma2-Python3-2018/tree/master/cap08_numeros)
 
+Apostila
+---------
+
+- https://drive.google.com/open?id=1IHD4ySrxkxN2iqKJ84h06FYZXbAY4iop
+
 Atividades
 ----------
 

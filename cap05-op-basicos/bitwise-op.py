@@ -19,3 +19,5 @@ print("Resultado LEFT SHIFT: ", c,':',bin(c)[2:])
 
 c = a >> 2 # 15  = 0000 1111
 print("Resultado RIGHT SHIFT: ", c,':',bin(c)[2:])
+
+

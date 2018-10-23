@@ -2,16 +2,6 @@
 
 """Programa das eleicoes do TSE/JCAVI"""
 
-# usuario = input('Digite seu nome de usuário": ')
-# senha = input('Digite sua senha secreta: ')
-#
-# if usuario == 'root' and senha == 'root':
-#     print('Acesso concedido. Bem vindo {}'.format(usuario))
-# else:
-#     print("Usuario desconhecido")
-#
-# print('/'* 70)
-
 print("""Eleições 2018 - 2nd turno
          Escolha o candidato de sua preferência
          0 (zero) para sair;
@@ -76,5 +66,7 @@ while True:
 print('/'*20 + 'TOTAL DE VOTOS APURADOS' + '/'*20)
 print(f'Votos em Branco: {votosEmBranco}')
 print(f'Votos Nulos: {votosNulos}')
+print(f"Total de votos inválidos: {votosEmBranco + votosNulos}")
 print(f'Votos para Haddad: {votos13}')
 print(f'Votos para Bolsonaro: {votos17}')
+print(f"Total de votos válidos: {votos17 + votos13}")

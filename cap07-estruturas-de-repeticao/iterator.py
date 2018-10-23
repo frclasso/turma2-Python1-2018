@@ -14,5 +14,3 @@ while True:
         sys.exit()
 
 
-def soma(x, y):
-    return (x + y)

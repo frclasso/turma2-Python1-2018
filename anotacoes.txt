@@ -1,0 +1,30 @@
+Anotações de aula:
+==================
+
+FALAR SOBRE:
+------------
+
+- Format string; ok
+- help; ok
+- Python docs (tutorial, Library reference, Language reference, PEP 8); ok
+- Windows subsystem for Linux - ok
+- tabuada basica ok
+
+5a aula
+- criar Menu de opções (programa eleições 2nd turno) - itertools.permutations()
+- tabuada avançada(operacoes matematicas) - calc2, clac3?
+- Falar de contadores e acumuladores - ok
+
+Tarefas
+- programa Loteria (cap 08- numeros)
+- autenticacao de usuario
+
+6a aula////
+modulos: Capitulo 15 - ok
+funcoes: Capituloa 14 - parametros,testes
+
+SEMANA DOS MORTOS - 7a aula
+-----------------
+criar modulo seguranca(menu opcao, gera senha, autentica e criptografa)
+
+parei  10.14 listas aninhadas

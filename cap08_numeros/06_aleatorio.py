@@ -41,19 +41,19 @@ random.shuffle(num)
 print(num)
 
 # Uniform
-print(f"Random uniform float(5, 10): {random.uniform(50,10)}")
+print(f"Random uniform float(50, 100): {random.uniform(50,100)}")
 
-print(round(random.uniform(50,1000), 8))
-
-# itertools.combinations
+print(round(random.uniform(50,1000), 3))
+print()
+# # itertools.combinations
 import itertools
 colors = ["Vermelho", "Azul", "Roxo", "Laranja", "Amarelo", "Lilás"]
 contador = 0
-for c in itertools.combinations(colors, 3): # 3 elements
+for c in itertools.combinations(colors, 4): # 3 elements
     contador += 1
     print(c)
 print(contador)
-
+#
 # itertools.permutations
 election = {1:'Pedro', 2:'Giovanna', 3:'Erick'}
 for p in itertools.permutations(election):

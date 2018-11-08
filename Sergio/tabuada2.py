@@ -13,9 +13,9 @@ while resp == 'S':  # or 's'
     resp = str(input('\nQuer continuar (S/N)? ')).upper()
     if resp == 'S':  # or 's'
         num = int(input('Digite um número inteiro para calcular a tabuada: '))
-    ## Precisa im else aqui, tá aceitando qq coisa diferente de N como nao
+    ## Precisa um else aqui, tá aceitando qq coisa diferente de N como nao
 print('Obrigado por utilizar o meu programa!.')
 
 
-# e se o número for float?
-# e se o usuário digitar uma string?
+# e se o número for float?  Erro
+# e se o usuário digitar uma string?  Erro

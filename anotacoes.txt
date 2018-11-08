@@ -21,7 +21,7 @@ Tarefas
 
 6a aula////
 modulos: Capitulo 15 - ok
-funcoes: Capituloa 14 - parametros,testes
+funcoes: Capitulo 14 - parametros,testes
 
 SEMANA DOS MORTOS - 7a aula
 -----------------

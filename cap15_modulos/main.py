@@ -6,8 +6,12 @@ from teste import x, y,z
 # import calc as c
 # import calc2 as c2
 
-from calc2 import absoluto, radianos, graus
-from calc import raiz, soma, sub, mult, div, modulus, divReal, potencia
+# from calc2 import absoluto, radianos, graus
+# from calc import raiz, soma, sub, mult, div, modulus, divReal, potencia
+
+from calc import *
+from calc2 import *
+
 
 print(f'Soma: {soma(x, y)}')
 print(sub(x, y))

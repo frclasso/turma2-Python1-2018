@@ -39,4 +39,8 @@ criar modulo seguranca(menu opcao, gera senha, autenticação e criptografa) - o
 
 8a aula
 -------
-- Cap 12 - Dicionarios
+- Cap 12 - Dicionarios - ok
+- Cap 13 - Date&time - ok
+
+9a aula
+-------

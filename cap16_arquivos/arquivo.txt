@@ -1,0 +1,17 @@
+************************************************************************
+				Obtendo informações do OS
+************************************************************************
+
+Python version 3.6.6
+PYTHONPATH:/Users/fabio/Desktop/turma2-Python3-2018
+SHELLPATH:/bin/bash
+Login:fabio
+HOME:/Users/fabio
+Diretorio atual:/Users/fabio/Desktop/turma2-Python3-2018/cap16_arquivos
+Platform:Darwin
+OS:Posix
+Diretório atual: /Users/fabio/Desktop/turma2-Python3-2018/cap16_arquivos
+
+************************************************************************
+Hora da ultima modificacao: 2018-11-18 16:24:37.547589.
+************************************************************************

@@ -1,0 +1,8 @@
+
+
+Sometimes it is more convenient to refer to
+the algorithm by name in a string rather than
+by using the constructor function directly.
+It is useful, for example, to be able to store
+the hash type in a configuration file. In those
+cases, use new() to create a hash calculator.

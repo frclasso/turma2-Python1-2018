@@ -32,7 +32,7 @@ Organização do curso:
 Apostila
 ---------
 
-- https://drive.google.com/open?id=1IHD4ySrxkxN2iqKJ84h06FYZXbAY4iop
+-Por motivo de segurana o link da apostila digital sera enviado individualmente aos alunos matriculados.
 
 Atividades
 ----------

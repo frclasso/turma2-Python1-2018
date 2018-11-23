@@ -11,20 +11,36 @@ FALAR SOBRE:
 - tabuada basica ok
 
 5a aula
+-------
 - criar Menu de opções (programa eleições 2nd turno) - itertools.permutations()
-- tabuada avançada(operacoes matematicas) - calc2, clac3?
+- tabuada avançada(operacoes matematicas) - calc2, calc3?
 - Falar de contadores e acumuladores - ok
 
 Tarefas
 - programa Loteria (cap 08- numeros)
 - autenticacao de usuario
 
-6a aula////
+6a aula
+-------
+funcoes: Capitulo 14 - parametros,testes - ok
 modulos: Capitulo 15 - ok
-funcoes: Capitulo 14 - parametros,testes
 
-SEMANA DOS MORTOS - 7a aula
------------------
-criar modulo seguranca(menu opcao, gera senha, autentica e criptografa)
+- Finalizamos Cap 09 - Strings
 
-parei  10.14 listas aninhadas
+- OBS: O exemplo da página 101, tinhda dado erro em sala de aula,mas funcionou.
+
+
+7a aula
+-------
+criar modulo seguranca(menu opcao, gera senha, autenticação e criptografa) - ok
+
+- Finalizamos Cap 10 - listas - ok
+- Finalizamos Cap 11 - tuplas - ok
+
+8a aula
+-------
+- Cap 12 - Dicionarios - ok
+- Cap 13 - Date&time - ok
+
+9a aula
+-------

@@ -1,0 +1,15 @@
+# zmodulo seguranca
+
+zmodulo_seguranca/
+       __init__.py
+
+       criptografia/
+            __init__.py
+            criptografia.py
+
+       seguranca/
+            __init__.py
+            autenticacao.py
+            cadastroUsuario.py
+            gerador_de_senhas.py
+            login.py

@@ -1,0 +1,8 @@
+
+
+S0m3tim3s it is m0r3 c0nv3ni3nt t0 r3f3r t0
+th3 @l80rithm by n@m3 in @ strin8 r@th3r th@n
+by usin8 th3 c0nstruct0r functi0n dir3ctly.
+It is us3ful, f0r 3%@mpl3, t0 b3 @bl3 t0 st0r3
+th3 h@sh typ3 in @ c0nfi8ur@ti0n fil3. In th0s3
+c@s3s, us3 n3w() t0 cr3@t3 @ h@sh c@lcul@t0r.

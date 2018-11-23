@@ -20,10 +20,10 @@ fornecendo o nome de acesso, para o sistema criar uma senha.''')
 
 usuarios = {}
 
-time = int(input('\nInforme a número de pessoas:  '))
+time = int(input('\nInforme o número de pessoas:  '))
 
 for a in range(1, time+1):
-    name = input(f'Digite o {a}º nome: ').upper()
+    name = input(f'Digite o nome da {a}º pessoa: ').upper()
     senha = password()
     usuarios[name] = senha
 print('\nSegue abaixo os nomes com a senha de acesso ao sistema:')

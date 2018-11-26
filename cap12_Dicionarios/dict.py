@@ -47,7 +47,7 @@ print(student)
 #del student['courses']
 #print(student)
 
-# metodo clear, deleta todo o conteudo docionario
+# metodo clear, deleta
 # student.clear()
 # print(student)
 

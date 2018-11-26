@@ -9,7 +9,7 @@ f = open('textoclaro.txt', 'r')
 # modo r = read(leitura)
 # modo w = write(escrita)
 
-cripto = str(f.read()) # f.read() le todo o arquivo
+cripto = str(f.read()) # f.read() le
 #print(cripto)
 
 

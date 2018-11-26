@@ -27,7 +27,7 @@ modulos: Capitulo 15 - ok
 
 - Finalizamos Cap 09 - Strings
 
-- OBS: O exemplo da página 101, tinhda dado erro em sala de aula,mas funcionou.
+- OBS: O exemplo da página 101, tinha dado erro em sala de aula,mas funcionou.
 
 
 7a aula
@@ -44,3 +44,10 @@ criar modulo seguranca(menu opcao, gera senha, autenticação e criptografa) - o
 
 9a aula
 -------
+- Cap 14 Funções
+- ATIVIDADE = criar cadastro de usuario/clientes
+ (adicionar usuario, deletar, modificar etc) - usando funcoes
+
+10a Aula
+---------
+*** Python por padrao é falso

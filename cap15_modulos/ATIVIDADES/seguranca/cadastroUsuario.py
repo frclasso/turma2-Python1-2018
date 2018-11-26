@@ -7,10 +7,10 @@
 # usando lista
 # funcao zip
 
-users = ['Fabio', 'Nicolas', 'Marcelo', 'Sabrina']
-senhas = [1234,5678,2345,6789]
-for x in zip(users, senhas):
-    #print(x)
+# users = ['Fabio', 'Nicolas', 'Marcelo', 'Sabrina']
+# senhas = [1234,5678,2345,6789]
+# for x in zip(users, senhas):
+#     #print(x)
 
 # Usando dicionarios
 

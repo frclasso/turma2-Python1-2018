@@ -4,16 +4,26 @@
 
 # So root pode cadastrar novos usuarios
 
-# usando lista
-# funcao zip
+print('Modulo cadastro usuarios importado com sucesso')
 
-# users = ['Fabio', 'Nicolas', 'Marcelo', 'Sabrina']
-# senhas = [1234,5678,2345,6789]
-# for x in zip(users, senhas):
-    #print(x)
+usuarios = ('root')
+novosUsuarios = {'nome':None, 'senha':None}
 
-# Usando dicionarios
 
-cadastroUsuarios = {}
-cadastroUsuarios['Fabio'] = 988352
-#print(cadastroUsuarios)
+def novoCadastro():
+    user = input('Insira novo usuario: ')
+    key = input('Insira nova senha:')
+    novosUsuarios.update({'nome':user, 'senha':key})
+    print('Usuario cadastrado com sucesso')
+
+
+#print(novosUsuarios)
+
+def imprimeUsuarios():
+    pass
+
+def deletaUsuarios():
+    pass
+
+def exportaUsuarios():
+    pass

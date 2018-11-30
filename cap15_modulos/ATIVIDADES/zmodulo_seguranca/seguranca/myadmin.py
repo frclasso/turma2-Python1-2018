@@ -3,5 +3,7 @@
 ## Modulo root/adim
 
 
+print('Modulo myadmin importado com sucesso')
+
 usuario = 'root'
 senha = 'admin'

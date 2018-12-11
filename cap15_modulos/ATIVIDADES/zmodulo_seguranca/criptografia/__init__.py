@@ -1,3 +1,6 @@
 #!/usr/bin/env python3
 
-import criptografia
+from criptografia import criptografa, decriptografa
+
+print(dir())
+

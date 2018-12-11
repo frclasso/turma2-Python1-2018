@@ -51,3 +51,13 @@ criar modulo seguranca(menu opcao, gera senha, autenticação e criptografa) - o
 10a Aula
 ---------
 *** Python por padrao é falso
+
+
+11 Aula
+--------
+tratamento de execessoes
+
+12 aula
+--------
+Projeto final controle de vagas de estacionameto
+

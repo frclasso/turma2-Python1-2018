@@ -15,4 +15,3 @@ cadastro = {"Nome":"Fabio Classo",
                  }
 
 print(f"Nome:{cadastro['Nome']}")
-

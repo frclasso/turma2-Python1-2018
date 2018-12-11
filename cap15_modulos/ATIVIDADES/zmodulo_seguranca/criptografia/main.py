@@ -1,0 +1,3 @@
+import criptografia
+
+print(dir())

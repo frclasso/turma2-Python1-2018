@@ -9,7 +9,7 @@ zmodulo_seguranca/
 
        seguranca/
             __init__.py
-            autenticacao.py
             cadastroUsuario.py
             gerador_de_senhas.py
             login.py
+            myadmin.py

@@ -6,7 +6,7 @@
 # Zero number
 # Empty sequence '', (), [] and {}
 
-conditional = False
+#conditional = False
 #conditional = None
 #conditional = 0
 #conditional = 1

@@ -17,7 +17,7 @@ def novoCadastro():
     print('Usuario cadastrado com sucesso')
 
 
-#print(novosUsuarios)
+#print(novoCadastro())
 
 def imprimeUsuarios():
     pass

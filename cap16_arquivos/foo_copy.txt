@@ -1,0 +1,8 @@
+Python
+C++
+Julia
+Django
+C
+R
+Java Maldito
+Excel Maldito

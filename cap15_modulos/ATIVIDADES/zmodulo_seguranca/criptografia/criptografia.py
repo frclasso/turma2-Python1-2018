@@ -71,4 +71,5 @@ def decriptografa():
 
 #criptografa()
 
-#decriptografa()
+decriptografa()
+

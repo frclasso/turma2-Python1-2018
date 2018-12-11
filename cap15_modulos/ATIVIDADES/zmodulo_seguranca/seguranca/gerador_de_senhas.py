@@ -13,7 +13,7 @@ def gerSenha():
 
     minusculas = 'abcdefghijklmnopqrstuvwxz'
     maiusculas = minusculas.upper()
-    numeros = '0123456789'
+    numeros = '0123456789' # str(range(10))
     simbolos = '!@#$%^&*'
 
     senha = []
@@ -41,7 +41,7 @@ def gerSenha():
     minusculos, numeros e simbolos. '''
 
     s = ''.join(senha)
-    #print(s)
+    print(s)
 
     # Resolvendo, gerando outra lista e mais random
 
@@ -56,4 +56,5 @@ def gerSenha():
 
 # Melhorar: criar funcao que receba o tamanho da senha
 # quantidade de elementos
-#gerSenha()
+
+gerSenha()

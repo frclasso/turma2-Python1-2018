@@ -58,7 +58,7 @@ def saidaCliente():
     v.saida()
     return f'Modelo: {modelo}, Placa: {veiculoPlaca}, Horario de saída: {horarioSaida}'
 
-
+#entradaCliente()
 # valorHora = 10.00
 # quantidadeHoras = 0
 # totalDia = valorHora * quantidadeHoras

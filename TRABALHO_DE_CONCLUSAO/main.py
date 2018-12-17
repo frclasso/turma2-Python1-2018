@@ -35,13 +35,13 @@ try:
         print(controle_vagas_estacionamento.entradaCliente())
     elif menu == 3:
         print(controle_vagas_estacionamento.saidaCliente())
-    elif menu ==  4:
+    elif menu == 4:
         print(vagas.vagasDisponiveis)
     elif menu == 5:
         print(cadastroDeClientes.novoCliente())
     else:print('Opção incorreta, digite um número de 1 a 5.')
 except ValueError:
-    print('É preciso digitar um número inteiro')
+    print('É preciso digitar um número inteiro') # erro
 
 
 

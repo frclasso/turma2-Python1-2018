@@ -32,7 +32,7 @@ with open('vagasOcupadas.csv', 'r') as f:
 
 
 def zeraVagas():
-    '''Zera vagas ocupdas para um novo dia de trabalho'''
+    '''Zera vagas ocupadas para um novo dia de trabalho'''
     global vagasOcupadas
     global vagasDisponiveis
     vagasOcupadas = []
@@ -86,12 +86,12 @@ def salvaDados():
             f2.write('{},'.format(v))
 
 #
-# zeraVagas()
+#zeraVagas()
 #
 #
-# entrada()
-# print(vagasOcupadas)
-# print(vagasDisponiveis)
+#entrada()
+#print(vagasOcupadas)
+#print(vagasDisponiveis)
 #
 # entrada()
 # print(vagasOcupadas)
@@ -106,4 +106,4 @@ def salvaDados():
 # print(vagasOcupadas)
 # print(vagasDisponiveis)
 #
-# salvaDados()
+#salvaDados()

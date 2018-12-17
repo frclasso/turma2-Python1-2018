@@ -20,3 +20,4 @@ def novoCliente():
         print()
 
     return f'ID:{id} - Nome:{nome} - Telefone:{telefone} - Condição:{condicao}'
+

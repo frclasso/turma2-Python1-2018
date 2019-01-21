@@ -57,7 +57,7 @@ Vamos padronizar da seguinte maneira:
 --------------
 
 
-![Image]()
+![Image](https://github.com/frclasso/turma2-Python1-2018/blob/master/python.png)
 
 
 

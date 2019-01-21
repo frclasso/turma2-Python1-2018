@@ -1,4 +1,4 @@
-def calcula_tempo(velocidade, distancia):
+def calcula_tempo(distancia, velocidade]):
     tempo = distancia/velocidade
     velocidade = 0
     return tempo

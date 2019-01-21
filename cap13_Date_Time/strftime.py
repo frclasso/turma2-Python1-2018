@@ -3,7 +3,7 @@ import time
 t = (2016, 2 ,15, 10, 13, 38, 1, 48, 0)
 
 t = time.mktime(t)
-
+t= time.mktime(t)
 print(time.strftime("%B %d %Y %H:%M:%S", time.localtime(t)))
 
 """Utilizaremos a função datetime.strftime()"""
